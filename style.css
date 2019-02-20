@@ -11,3 +11,35 @@
 ol {
   line-height: 30px;
 }
+
+ul li {
+  font-size: 30px;
+}
+
+.pink {
+  color: #FC76F3;
+}
+
+.yellow {
+  color: #FFF40A;
+}
+
+.blue {
+  color: #4DFCDB;
+}
+
+.green {
+  color: #77FF1B;
+}
+
+.orange {
+  color: #FD8C0C;
+}
+
+/*
+FC76F3 pink
+FFF40A yellow
+4DFCDB blue
+77FF1B green
+FD8C0C orang
+*/
